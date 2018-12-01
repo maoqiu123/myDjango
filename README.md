@@ -1,4 +1,4 @@
-```angular2
+```
 ©¦  manage.py
 ©¦  README.md 
 ©¸©¤myDjango
