@@ -1,12 +1,12 @@
 ```
-©¦  manage.py
-©¦  README.md 
-©¸©¤myDjango
-    ©¦  settings.py
-    ©¦  urls.py
-    ©¦  wsgi.py
-    ©¦  __init__.py
-    ©À©¤Controller    
-    ©À©¤Model         
-    ©À©¤View
+â”‚  manage.py
+â”‚  README.md 
+â””â”€myDjango
+    â”‚  settings.py
+    â”‚  urls.py
+    â”‚  wsgi.py
+    â”‚  __init__.py
+    â”œâ”€Controller    
+    â”œâ”€Model         
+    â”œâ”€View
 ```
