@@ -1,11 +1,12 @@
-â”œâ”€ MyDjango   <br />
-â”‚  â”œâ”€ myDjango  <br />
-â”‚  â”‚  â”œâ”€Controller  <br />
-â”‚  â”‚  â”œâ”€Model  <br />
-â”‚  â”‚  â”œâ”€View  <br />
-â”‚  â”‚  â”œâ”€__init__.py  <br />
-â”‚  â”‚  â”œâ”€settings.py  <br />
-â”‚  â”‚  â”œâ”€urls.py  <br />
-â”‚  â”‚  â”œâ”€wsgi.py  <br />
-â”‚  â”œâ”€ manage.py <br />
-â”‚  â””â”€ README.md <br />
+```angular2
+©¦  manage.py
+©¦  README.md 
+©¸©¤myDjango
+    ©¦  settings.py
+    ©¦  urls.py
+    ©¦  wsgi.py
+    ©¦  __init__.py
+    ©À©¤Controller    
+    ©À©¤Model         
+    ©À©¤View
+```
