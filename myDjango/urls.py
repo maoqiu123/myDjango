@@ -17,10 +17,7 @@ from django.contrib import admin
 from django.urls import path
 from django.conf.urls import url
 
-from .Controller import view,TestController
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    url(r'^hello$',view.hello),
-    url(r'^base$', TestController.testdb)
 ]
